@@ -1,0 +1,3 @@
+apiVersion: v2
+name: viki-keda-7dec-7
+version: 1.0.1
